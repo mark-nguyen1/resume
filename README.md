@@ -1,3 +1,2 @@
-# resume
-
-[resume_MarkNguyen.pdf](https://github.com/user-attachments/files/15985681/resume_MarkNguyen.pdf)
+# Mark Nguyen's resume:
+![resume_MarkNguyen](./resume_MarkNguyen.png)
